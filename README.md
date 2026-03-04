@@ -1,93 +1,68 @@
 # João Varela
 
-Desenvolvedor Back-End com foco em arquitetura organizada, separação de responsabilidades e integridade de dados.
+## Apresentação
+
+Olá, sou João Varela. Desenvolvedor Back-End com foco em arquitetura organizada, padronização estrutural e integridade de dados. Atuo construindo soluções previsíveis, escaláveis e de fácil manutenção.
 
 ---
 
-## Sobre Mim
+## Perfil Profissional
 
-Atuação principal em desenvolvimento estruturado com:
-
-- Arquitetura MVC bem definida
-- Separação em camadas (Controller, Regra de Negócio, DTO, BD)
-- Modelagem e otimização de banco de dados
-- Integração entre sistemas
-- Ambientes containerizados com Docker
-- Migrações e manutenção evolutiva de sistemas legados
-
-Compromisso com código limpo, reutilização de componentes e manutenção sustentável a longo prazo.
+- Desenvolvedor Back-End  
+- Foco em estrutura MVC  
+- Código limpo, legível e sustentável  
+- Organização estrutural acima de soluções improvisadas  
+- Experiência com migrações e integrações entre sistemas  
+- Modelagem e otimização de banco de dados  
+- Foco em previsibilidade e escalabilidade  
+- Compromisso com boas práticas de desenvolvimento  
 
 ---
 
-## Estatísticas GitHub
+## Tecnologias Mais Utilizadas
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoVVP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-  />
-</p>
+<div align="left">
 
----
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
-## Sequência de Contribuições
+<br>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=JoaoVVP&theme=tokyonight&hide_border=true"
-  />
-</p>
+<img src="https://img.shields.io/badge/Twig-339933?style=for-the-badge&logo=twig&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
 
 ---
 
 ## Atividade no GitHub
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVVP&theme=tokyo-night&hide_border=true"
-  />
-</p>
+<div align="left">
 
----
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoVVP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-## Tecnologias e Ferramentas
-
-### Backend
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Frontend
-
-![Twig](https://img.shields.io/badge/Twig-339933?style=for-the-badge&logo=twig&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### DevOps e Ambiente
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## Princípios de Desenvolvimento
-
-- Separação clara de responsabilidades
-- Regra de negócio isolada da camada de apresentação
-- Acesso a dados exclusivamente por camada dedicada
-- Evitar SQL direto fora da camada apropriada
-- Respostas estruturadas para requisições assíncronas
-- Reutilização máxima de componentes existentes
-
----
-
-## Objetivo Profissional
-
-Desenvolver sistemas robustos, escaláveis e de fácil manutenção, com arquitetura previsível e padronizada, priorizando qualidade estrutural acima de soluções improvisadas.
+</div>
 
 ---
 
 ## Contato
 
-GitHub:  
-https://github.com/JoaoVVP
+<div align="left">
+
+<a href="https://github.com/JoaoVVP" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</br>
+
+<a href="https://linkedin.com/in/joaovitorvarela" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
